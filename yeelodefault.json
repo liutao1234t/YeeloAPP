@@ -1,0 +1,180 @@
+{
+  "appCore": {
+    "appName": "Silas",
+    "theme": "gown_virtual_fitting",
+    "mainView": "gown_detail",
+    "locale": "en-US"
+  },
+  "visualTheme": {
+    "baseTone": "warm_ivory",
+    "accentTone": "soft_gold",
+    "textTone": "deep_brown",
+    "cardRadius": 24
+  },
+  "topBar": {
+    "title": "Detail",
+    "backVisible": true,
+    "heartVisible": true,
+    "markVisible": true
+  },
+  "heroPhoto": {
+    "photoName": "silas_gown_beach",
+    "simloar": "renjipiaoliang",
+    "layoutMode": "large_header",
+    "heightRatio": 0.64
+  },
+  "gownMain": {
+    "gownId": "gown_silas_001",
+    "name": "Silas Gown",
+    "collection": "Ocean Breeze",
+    "mood": "soft_romantic"
+  },
+  "gownCopy": {
+    "headline": "Silas Gown",
+    "bodyText": "Hand-draped silk chiffon with a chapel-length train made for ocean breezes.",
+    "tone": "editorial_poetic"
+  },
+  "tryOnAction": {
+    "text": "AI TRY-ON THIS STYLE",
+    "icon": "sparkle",
+    "shape": "wide_capsule",
+    "gradient": ["gold", "cream_gold"]
+  },
+  "detailPanel": {
+    "title": "Product Details",
+    "expanded": true,
+    "dividerVisible": true,
+    "rowAlign": "two_column"
+  },
+  "materialInfo": {
+    "label": "Material",
+    "value": "100% Silk Chiffon",
+    "feel": "light_airy",
+    "surface": "soft_sheen"
+  },
+  "gownFit": {
+    "label": "Fit",
+    "value": "Fluid A-line",
+    "waist": "soft_defined",
+    "movement": "flowing"
+  },
+  "originInfo": {
+    "label": "Origin",
+    "value": "Handcrafted in Italy",
+    "craft": "atelier_made",
+    "regionTone": "coastal_luxury"
+  },
+  "trainInfo": {
+    "type": "chapel_length",
+    "lengthLevel": "long",
+    "motionFeel": "floating",
+    "bestScene": "beach_ceremony"
+  },
+  "necklineInfo": {
+    "type": "deep_v",
+    "strapType": "wide_soft_strap",
+    "frontShape": "clean_open",
+    "backShape": "minimal"
+  },
+  "fabricMotion": {
+    "drape": "hand_draped",
+    "windResponse": "soft_lift",
+    "flowLevel": "high",
+    "photoEffect": "sunlit_sheer"
+  },
+  "wearScene": {
+    "primaryScene": "seaside_wedding",
+    "secondaryScene": "sunset_portrait",
+    "season": "summer",
+    "timeMood": "golden_hour"
+  },
+  "stylingGuide": {
+    "jewelry": "delicate_gold",
+    "hair": "loose_waves",
+    "shoes": "barefoot_sandals",
+    "veil": "sheer_long"
+  },
+  "colorStory": {
+    "mainColor": "warm_white",
+    "undertone": "ivory",
+    "lightEffect": "sun_glow",
+    "palette": ["ivory", "sand", "gold", "sea_blue"]
+  },
+  "sizeGuide": {
+    "available": ["XS", "S", "M", "L", "XL"],
+    "defaultSize": "M",
+    "lengthOption": "floor_length",
+    "waistEase": "gentle"
+  },
+  "tryOnInput": {
+    "cameraEnabled": true,
+    "albumEnabled": true,
+    "maxPhotoCount": 1,
+    "poseNeed": "front_full_body"
+  },
+  "tryOnResult": {
+    "resultRatio": "vertical",
+    "saveEnabled": true,
+    "shareEnabled": true,
+    "resultCount": 4
+  },
+  "favoriteState": {
+    "isSaved": false,
+    "folderName": "Dream Gowns",
+    "savedCount": 2300,
+    "heartTone": "gold"
+  },
+  "shareAction": {
+    "enabled": true,
+    "titleText": "Silas Gown Detail",
+    "photoName": "silas_gown_beach",
+    "includeName": true
+  },
+  "designerInfo": {
+    "designerName": "Aurelia Atelier",
+    "atelierCity": "Florence",
+    "craftFocus": "silk_drape",
+    "worksCount": 86
+  },
+  "careGuide": {
+    "cleaning": "delicate_professional_care",
+    "storage": "wide_hanger_breathable_bag",
+    "steamLevel": "low",
+    "travelNote": "roll_softly"
+  },
+  "similarGowns": {
+    "items": ["luna_silk_002", "marella_flow_003", "aria_chiffon_004"],
+    "matchBy": ["fabric", "scene", "shape"],
+    "displayCount": 3
+  },
+  "recommendationRules": {
+    "mode": "gown_mood_match",
+    "sceneWeight": 0.45,
+    "fabricWeight": 0.35,
+    "shapeWeight": 0.2
+  },
+  "bottomActions": {
+    "mainButton": "AI TRY-ON THIS STYLE",
+    "secondButton": "Save",
+    "mainTone": "gold",
+    "secondTone": "white"
+  },
+  "layoutMetrics": {
+    "safeTop": 18,
+    "heroHeight": 780,
+    "cardOffset": -130,
+    "sectionGap": 36
+  },
+  "noticeCenter": {
+    "unreadCount": 1,
+    "newGownAlert": true,
+    "savedLookAlert": false,
+    "quietHours": {"enabled": true, "start": "22:00", "end": "08:00"}
+  },
+  "sessionState": {
+    "lastView": "gown_detail",
+    "lastGownId": "gown_silas_001",
+    "tryCount": 2,
+    "viewSeconds": 52
+  }
+}
